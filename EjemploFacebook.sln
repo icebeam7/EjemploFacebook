@@ -18,6 +18,11 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		EjemploFacebook\EjemploFacebook\EjemploFacebook.projitems*{10be04c1-b278-4b4d-b75f-771558e1f340}*SharedItemsImports = 13
+		EjemploFacebook\EjemploFacebook\EjemploFacebook.projitems*{889f3408-dfff-4373-a242-830678f9df50}*SharedItemsImports = 4
+		EjemploFacebook\EjemploFacebook\EjemploFacebook.projitems*{ae1fb9ec-86ec-45ad-b6a7-0ab7590a39f8}*SharedItemsImports = 4
+		EjemploFacebook\EjemploFacebook\EjemploFacebook.projitems*{c47dffb0-1f9f-4405-94c1-9dc240e3ef0d}*SharedItemsImports = 4
+		EjemploFacebook\EjemploFacebook\EjemploFacebook.projitems*{e4ffb94a-1338-4b52-af9e-41df65b71e6b}*SharedItemsImports = 4
+		EjemploFacebook\EjemploFacebook\EjemploFacebook.projitems*{f3c29577-7abe-46e8-8fc5-9dbf124e27ee}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU

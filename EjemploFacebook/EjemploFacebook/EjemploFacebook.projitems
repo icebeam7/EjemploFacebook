@@ -10,6 +10,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)OAuthSettings.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\BaseContentPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\LoginPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\ProfilePage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="$(MSBuildThisFileDirectory)GettingStarted.Xamarin" />
